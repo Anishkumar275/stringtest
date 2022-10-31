@@ -3,6 +3,7 @@ class StringEx
 public static void main(String args[])
 {
 String name = new String("  dhanush");
+  String nameE = new String ("  Anish"); 
 
 //character position(charAt)
 char c1=name.charAt(6);
